@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html ">
+<head>
+    <meta charset="UTF-8">
+    <title>tapeprisma</title>
+</head>
+<body>
+    <table cellspacing="10">
+        <tr> 
+            <td>
+    <img src="R5rt4ZGIZVY.jpg" width="150"/>
+            </td>
+            <td>
+    <h1><a href="https://www.instagram.com/tapeprisma/" target="_blank"> tapeprisma</a>  </h1>
+    <p> <em>instagram аккаунт</em></p>
+           </td>
+        </tr>  
+    </table>
+    <hr color="red"/>
+    <p> постсоветская  жизнь  и архитектура сквозь призму пленочных фото 
+        </p>
+    <p><a href="https://www.youtube.com/channel/UCOa2xxma42o6sGv5bxCdA2A" target="_blank"> мой YouTube канал </a> 
+        </p>
+    <ul type="square">
+        <li>модернизм</li>
+        <li>монументализм</li>
+        <li>архитектура</li>
+    </ul>
+   
+    <hr color="red">
+    <p> предсказания для вас:</p>
+    <p> <a href="predskaz.html">посмотреть </a> </p>
+    <hr color="red">
+    <p><img src="wr-960.webp" width="200" alt="тут фото дворца советов"/> 
+       <img src="https://nekrasovka.ru/img/9638/mobile" width="200" alt="тут фото дворца советов"/>
+    </p>
+    <hr color="red"/>
+    <h2>тест на крутость</h2>
+    
+    <form>
+        <label for="name">ваше имя:</label>
+        <input type="text" id="name"
+        placeholder="Ваня Пупкин">
+
+        <br>
+
+        <label for="name">длинна прибора:</label>
+        <input type="range" id="name">
+
+        <br>
+
+        <input type="submit" value="отправить результат">
+        <hr color="red">
+        <h2>Ваше мнение (не учитывается)</h2>
+        
+        <label for="text"> мнение:</label>
+        <textarea id="text"></textarea>
+        
+</body>   
+</html>
